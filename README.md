@@ -1,1 +1,3 @@
-Exercises and examples done while learning golang.
+Go Basics
+
+Projects in Golang
